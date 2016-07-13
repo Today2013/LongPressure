@@ -29,7 +29,7 @@
     self.collectionView.delegate = self;
     self.collectionView.dataSource = self;
     
-    AVAudioRecorder *recor
+    
     
 }
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section
